@@ -1,4 +1,8 @@
 _repo: Journeys-Through-Bookland-Vol-4_7013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sylvester, Charles Herbert
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '1875'
     url: http://www.gutenberg.org/2009/agents/1875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7013#Journeys-Through-Bookland-Vol-4
 gutenberg_bookshelf: Children's Anthologies
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
